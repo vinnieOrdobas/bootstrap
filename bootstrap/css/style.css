@@ -1,6 +1,5 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: black;
 }
 
 .alert-container {}
@@ -58,6 +57,7 @@ body {
 .navalert-container {
     position: absolute;
     top: 0;
+    bottom: 0;
     left: 0;
     padding-left: 0;
     padding-right: 0;
