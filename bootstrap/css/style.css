@@ -64,6 +64,11 @@ body {
     z-index: 1;
 }
 
+.navalert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .navbar {
     margin-bottom: 0;
     border: 0;
